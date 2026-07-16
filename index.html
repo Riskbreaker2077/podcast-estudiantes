@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Podcasts filosóficos creados por estudiantes.">
+  <title>Lecciones para vivir · Podcasts estudiantiles</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,600;9..144,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="#inicio" aria-label="Inicio">
+        <span class="brand-mark">◒</span>
+        <span>Lecciones<br><em>para vivir</em></span>
+      </a>
+      <nav aria-label="Navegación principal">
+        <a href="#episodios">Episodios</a>
+        <a href="#proyecto">El proyecto</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="inicio">
+    <section class="hero">
+      <div class="hero-orbit orbit-one"></div>
+      <div class="hero-orbit orbit-two"></div>
+      <div class="hero-content">
+        <p class="eyebrow">Proyecto de filosofía · 11-B</p>
+        <h1>Ideas antiguas<br><span>para vivir hoy.</span></h1>
+        <p class="hero-copy">Una colección de podcasts creados por estudiantes a partir de <em>Lecciones de estoicismo</em>, de John Sellars.</p>
+        <a class="button button-light" href="#episodios">Escuchar la colección <span>↓</span></a>
+      </div>
+      <div class="hero-note"><span>09</span><small>episodios<br>disponibles</small></div>
+    </section>
+
+    <section class="intro" id="proyecto">
+      <div class="section-label">01 / EL PROYECTO</div>
+      <div class="intro-grid">
+        <h2>La filosofía<br><em>como conversación.</em></h2>
+        <div class="intro-text">
+          <p>Estos episodios son el resultado de una lectura compartida y una pregunta común: ¿cómo pueden las ideas del estoicismo ayudarnos a entender mejor nuestra vida?</p>
+          <p>Cada equipo investigó, escribió, grabó y editó su propia conversación filosófica.</p>
+          <div class="rule"></div>
+          <p class="mono">Escucha · lee · vuelve a pensar</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="episodes" id="episodios">
+      <div class="section-heading">
+        <div><div class="section-label">02 / LA COLECCIÓN</div><h2>Todos los episodios</h2></div>
+        <p class="section-count">09 <span>piezas de audio</span></p>
+      </div>
+      <div id="episode-list" class="episode-list" aria-live="polite"></div>
+    </section>
+
+    <section class="closing">
+      <p class="eyebrow">Una pregunta para llevar</p>
+      <blockquote>“No son las cosas las que nos perturban, sino nuestros juicios sobre las cosas.”</blockquote>
+      <cite>— Epicteto</cite>
+    </section>
+  </main>
+  <footer><span>Lecciones para vivir</span><span>Proyecto de filosofía · 11-B</span></footer>
+  <script src="app.js"></script>
+</body>
+</html>

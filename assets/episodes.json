@@ -1,0 +1,188 @@
+[
+  {
+    "id": 1,
+    "title": "Lecciones para vivir — Un podcast estoico",
+    "names": [
+      "Juan Felipe Jiménez España",
+      "Cristian Camilo Rengifo Jurado",
+      "Nicol Dahiana Garay Samboni",
+      "Maikol Andrés Bautista Vargas"
+    ],
+    "members": [
+      "Juan Felipe Jiménez España",
+      "Cristian Camilo Rengifo Jurado",
+      "Nicol Dahiana Garay Samboni",
+      "Maikol Andrés Bautista Vargas"
+    ],
+    "script": "scripts/episode-01-lecciones-para-vivir-un-podcast-estoico.txt",
+    "audio": "audio/episode-01-lecciones-para-vivir-un-podcast-estoico.mp3",
+    "image": "images/episode-01.jpg",
+    "duration": 441,
+    "roles": [],
+    "minutes": "7:21"
+  },
+  {
+    "id": 2,
+    "title": "Podcast de Isabella Devia",
+    "names": [
+      "Isabella Devia",
+      "Aldeimk García"
+    ],
+    "members": [
+      "Isabella Devia",
+      "Aldeimk García"
+    ],
+    "script": "scripts/episode-02-podcast-de-isabella-devia.txt",
+    "audio": "audio/episode-02-podcast-de-isabella-devia.mp3",
+    "image": "images/episode-02.jpg",
+    "duration": 641,
+    "roles": [],
+    "minutes": "10:41"
+  },
+  {
+    "id": 3,
+    "title": "Podcast de Mónica reyes Rivera",
+    "names": [
+      "Mónica reyes Rivera",
+      "Gabriela Hostos Matel",
+      "Johan Stiven Martínez Santamaría"
+    ],
+    "members": [
+      "Mónica reyes Rivera",
+      "Gabriela Hostos Matel",
+      "Johan Stiven Martínez Santamaría"
+    ],
+    "script": "scripts/episode-03-podcast-de-monica-reyes-rivera.txt",
+    "audio": "audio/episode-03-podcast-de-monica-reyes-rivera.mp3",
+    "image": "images/episode-03.jpg",
+    "duration": 452,
+    "roles": [],
+    "minutes": "7:32"
+  },
+  {
+    "id": 4,
+    "title": "Podcast de Franyer Hernández",
+    "names": [
+      "Franyer Hernández",
+      "Juan José Vargas",
+      "Daniela Romero",
+      "Taliana Murillo"
+    ],
+    "members": [
+      "Franyer Hernández",
+      "Juan José Vargas",
+      "Daniela Romero",
+      "Taliana Murillo"
+    ],
+    "script": "scripts/episode-04-podcast-de-franyer-hernandez.txt",
+    "audio": "audio/episode-04-podcast-de-franyer-hernandez.mp3",
+    "image": "images/episode-04.jpg",
+    "duration": 748,
+    "roles": [],
+    "minutes": "12:28"
+  },
+  {
+    "id": 5,
+    "title": "¿Qué eres capaz de controlar? — La dicotomía del control",
+    "names": [
+      "Miguel García",
+      "Andrés Felipe Prieto",
+      "Martín Romero"
+    ],
+    "members": [
+      "Miguel García",
+      "Andrés Felipe Prieto",
+      "Martín Romero"
+    ],
+    "script": "scripts/episode-05-que-eres-capaz-de-controlar-la-dicotomia-del-contr.txt",
+    "audio": "audio/episode-05-que-eres-capaz-de-controlar-la-dicotomia-del-contr.mp3",
+    "image": "images/episode-05.jpg",
+    "duration": 494,
+    "roles": [],
+    "minutes": "8:14"
+  },
+  {
+    "id": 6,
+    "title": "¿De verdad podemos controlar nuestra vida?",
+    "names": [
+      "Franyelis Martínez",
+      "Valeria Suárez",
+      "Ariana Giraldo"
+    ],
+    "members": [
+      "Franyelis Martínez",
+      "Valeria Suárez",
+      "Ariana Giraldo"
+    ],
+    "script": "scripts/episode-06-de-verdad-podemos-controlar-nuestra-vida.txt",
+    "audio": "audio/episode-06-de-verdad-podemos-controlar-nuestra-vida.mp3",
+    "image": "images/episode-06.jpg",
+    "duration": 163,
+    "roles": [],
+    "minutes": "2:43"
+  },
+  {
+    "id": 7,
+    "title": "Lidiar con la adversidad",
+    "names": [
+      "Sofía Puentes",
+      "Karen Oliveros",
+      "Alison Hoyos"
+    ],
+    "members": [
+      "Sofía Puentes",
+      "Karen Oliveros",
+      "Alison Hoyos"
+    ],
+    "script": "scripts/episode-07-lidiar-con-la-adversidad.txt",
+    "audio": "audio/episode-07-lidiar-con-la-adversidad.mp3",
+    "image": "images/episode-07.jpg",
+    "duration": 179,
+    "roles": [],
+    "minutes": "2:59"
+  },
+  {
+    "id": 8,
+    "title": "¿Controlar lo que sentimos o aceptar lo que somos?",
+    "names": [
+      "José Suárez",
+      "Melany Muñoz",
+      "Sofía Gómez",
+      "Harvy Torres"
+    ],
+    "members": [
+      "José Suárez",
+      "Melany Muñoz",
+      "Sofía Gómez",
+      "Harvy Torres"
+    ],
+    "script": "scripts/episode-08-controlar-lo-que-sentimos-o-aceptar-lo-que-somos.txt",
+    "audio": "audio/episode-08-controlar-lo-que-sentimos-o-aceptar-lo-que-somos.mp3",
+    "image": "images/episode-08.jpg",
+    "duration": 665,
+    "roles": [],
+    "minutes": "11:05"
+  },
+  {
+    "id": 9,
+    "title": "La filosofía como medicina del alma",
+    "names": [
+      "Juliana Leyva",
+      "Sofía Zapata",
+      "Cristian Rivera",
+      "Sara Ospina"
+    ],
+    "members": [
+      "Juliana Leyva",
+      "Sofía Zapata",
+      "Cristian Rivera",
+      "Sara Ospina"
+    ],
+    "script": "scripts/episode-09-la-filosofia-como-medicina-del-alma.txt",
+    "audio": "audio/episode-09-la-filosofia-como-medicina-del-alma.mp3",
+    "image": "images/episode-09.jpg",
+    "duration": 263,
+    "roles": [],
+    "minutes": "4:23"
+  }
+]
