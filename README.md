@@ -1,6 +1,6 @@
 # Podcasts estudiantiles — Lecciones para vivir
 
-Sitio estático con los podcasts filosóficos producidos por estudiantes de 11-B a partir de *Lecciones de estoicismo*, de John Sellars.
+Sitio estático con los podcasts filosóficos producidos por estudiantes de Grado 11 de la Institución Educativa Santa Teresa de Jesús, a partir de *Lecciones de estoicismo*, de John Sellars.
 
 ## Contenido
 

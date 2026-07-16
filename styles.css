@@ -18,7 +18,7 @@ a { color: inherit; text-decoration: none; }
 .site-header { height: 82px; border-bottom: 1px solid var(--line); background: rgba(245,242,235,.94); position: sticky; top: 0; z-index: 10; backdrop-filter: blur(12px); }
 .header-inner { max-width: 1180px; height: 100%; margin: auto; padding: 0 28px; display: flex; align-items: center; justify-content: space-between; }
 .brand { display: flex; align-items: center; gap: 11px; font-weight: 700; font-size: 13px; line-height: 1.05; letter-spacing: -.02em; }
-.brand-mark { display: grid; place-items: center; width: 32px; height: 32px; color: var(--cream); background: var(--orange); border-radius: 50%; font-size: 22px; transform: rotate(-25deg); }
+.school-logo { width: 45px; height: 45px; object-fit: cover; border-radius: 50%; background: white; border: 1px solid var(--line); }
 .brand em { color: var(--orange); font-family: var(--serif); font-weight: 600; }
 nav { display: flex; gap: 30px; color: var(--muted); font-size: 13px; }
 nav a:hover { color: var(--orange); }
