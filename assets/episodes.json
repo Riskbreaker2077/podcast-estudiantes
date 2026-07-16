@@ -184,5 +184,23 @@
     "duration": 263,
     "roles": [],
     "minutes": "4:23"
+  },
+  {
+    "id": 10,
+    "title": "¿Qué sí depende de ti? — Estoicismo en Armenia",
+    "names": [
+      "Melissa Ibarra Rodríguez",
+      "Carolay Rodríguez"
+    ],
+    "members": [
+      "Melissa Ibarra Rodríguez",
+      "Carolay Rodríguez"
+    ],
+    "script": "scripts/episode-10-que-si-depende-de-ti-estoicismo-en-armenia.txt",
+    "audio": "audio/episode-10-que-si-depende-de-ti-estoicismo-en-armenia.mp3",
+    "image": "images/episode-10.jpg",
+    "duration": 252,
+    "roles": [],
+    "minutes": "4:12"
   }
 ]
